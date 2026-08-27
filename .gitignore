@@ -1,0 +1,7 @@
+__pycache__/
+.pytest_cache/
+.venv/
+*.py[cod]
+TEACHER_BUGS.md
+TEACHER_GUIDE.md
+tests/
