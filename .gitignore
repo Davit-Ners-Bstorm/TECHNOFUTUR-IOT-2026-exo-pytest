@@ -4,4 +4,3 @@ __pycache__/
 *.py[cod]
 TEACHER_BUGS.md
 TEACHER_GUIDE.md
-tests/
